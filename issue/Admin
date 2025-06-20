@@ -1,0 +1,5 @@
+### User Stories for Admin Role
+
+- As an admin, I want to add a new doctor to the system.
+- As an admin, I want to update doctor information.
+- As an admin, I want to delete a doctor from the system.
